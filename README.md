@@ -5,9 +5,13 @@ This plugin replaces the default Rich Text Editor with the one from CKEditor5
 <p align="center"><img src="https://devfuture.pro/wp-content/uploads/2021/12/GrapesJS-CKEditor-2021-12-27-02-16-48.png" alt="GrapesJS CKeditor5" align="center"/></p>
 <br/>
 
-<b>GrapesJS Development</b> - <a href="https://devfuture.pro/grapesjs-development/">link</a>
+Video example: 👇
+[![Alt text](https://camo.githubusercontent.com/3ce0d5d1a61c5017c965206df823081364bef5a045f96b66e79ef21c2dd4521c/68747470733a2f2f632e636b736f757263652e636f6d2f612f312f696d672f6e706d2f636b656469746f72352d6275696c642d636c61737369632e706e67)](https://www.youtube.com/watch?v=xn4gSMIrx-A)
+
+
+<b>GrapesJS Development</b> - <a href="https://devfuture.pro/grapesjs-development/" target="_blank">link</a>
 <br/>
-<b>GrapesJS Donation</b> - <a href="https://opencollective.com/grapesjs">link</a>
+<b>GrapesJS Donation</b> - <a href="https://opencollective.com/grapesjs" target="_blank">link</a>
 
 ## Summary
 
