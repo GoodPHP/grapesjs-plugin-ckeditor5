@@ -11,6 +11,8 @@ Video example: 👇
 <b>GrapesJS Development</b> - <a href="https://devfuture.pro/grapesjs-development/" target="_blank">link</a>
 <br/>
 <b>GrapesJS Donation</b> - <a href="https://opencollective.com/grapesjs" target="_blank">link</a>
+<br/>
+<a href="https://www.linkedin.com/in/maksym-maliyshytskyi-6ab578182/" target="_blank">Linkedin</a>
 
 ## Summary
 
