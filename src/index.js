@@ -44,6 +44,7 @@ export default grapesjs.plugins.add('gjs-plugin-ckeditor5', (editor, opts = {}) 
           cashDom(`.ck-fake-selection-container`).map((index, element) => {
             cashDom(element).remove();
           })
+          editor.getSelected().components('');
           editor.getSelected().set('content', cashDom(`#${el.id}ckeditor`).html());
           cashDom(`#${el.id}ckeditor`).removeClass('save');
         }
