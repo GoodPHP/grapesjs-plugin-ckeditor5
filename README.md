@@ -7,8 +7,6 @@ Video example: 👇
 [![Alt text](https://devfuture.pro/wp-content/uploads/2021/12/GrapesJS-CKEditor-2021-12-27-02-16-48.png)](https://www.youtube.com/watch?v=xn4gSMIrx-A)
 <br/>
 
-DOWNLOAD: https://gjs.market/products/ckeditor-5-in-modal
-
 GJS.MERKET: https://gjs.market/authors/devfuture-development
 
 <b>GrapesJS Development</b> - <a href="https://devfuture.pro/grapesjs-development/" target="_blank">link</a>
